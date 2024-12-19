@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NugetSolutionDependencyTree/.vs
+/NugetSolutionDependencyTree/NugetSolutionDependencyTree/bin
+/NugetSolutionDependencyTree/NugetSolutionDependencyTree/obj
+/NugetSolutionDependencyTree/packages
