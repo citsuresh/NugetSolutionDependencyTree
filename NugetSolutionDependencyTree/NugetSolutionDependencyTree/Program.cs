@@ -25,9 +25,8 @@ class Program
 
         if (args.Length == 0)
         {
-            solutionPath = @"C:\ItronProjects\SPMT_OsUpgrade\RNDTools.Network.Deploy\SBRBatchUpdateTool\SBRBatchUpdateTool.sln";
-            //Console.WriteLine("Please provide the path to the .sln file.");
-            //return;
+            Console.WriteLine("Please provide the path to the .sln file.");
+            return;
         }
         else
         {
